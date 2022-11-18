@@ -1,3 +1,11 @@
+Show uncompleted tasks
+<img width="1277" alt="show uncompleted tasks" src="https://user-images.githubusercontent.com/61503627/202688740-cf90f502-845f-4461-a965-b8e78235219d.png">
+
+
+Show all tasks
+<img width="1277" alt="show all tasks" src="https://user-images.githubusercontent.com/61503627/202688767-3d8b18ff-6716-4f1e-8b55-a995591fd7d9.png">
+
+
 # Todo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.7.
